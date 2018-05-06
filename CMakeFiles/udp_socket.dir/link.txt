@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/udp_socket.dir/test/udp_socket.cpp.o CMakeFiles/udp_socket.dir/test/main.cpp.o  -o udp_socket -rdynamic libsimulator.a -lboost_system 

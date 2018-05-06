@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/resolver.dir/test/resolver.cpp.o CMakeFiles/resolver.dir/test/main.cpp.o  -o resolver -rdynamic libsimulator.a -lboost_system 

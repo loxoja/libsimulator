@@ -1,0 +1,59 @@
+Scanning dependencies of target simulator
+[  2%] Building CXX object CMakeFiles/simulator.dir/src/acceptor.cpp.o
+[  4%] Building CXX object CMakeFiles/simulator.dir/src/high_resolution_timer.cpp.o
+[  7%] Building CXX object CMakeFiles/simulator.dir/src/io_service.cpp.o
+[  9%] Building CXX object CMakeFiles/simulator.dir/src/resolver.cpp.o
+[ 12%] Building CXX object CMakeFiles/simulator.dir/src/sink_forwarder.cpp.o
+[ 14%] Building CXX object CMakeFiles/simulator.dir/src/udp_socket.cpp.o
+[ 17%] Building CXX object CMakeFiles/simulator.dir/src/default_config.cpp.o
+[ 19%] Building CXX object CMakeFiles/simulator.dir/src/http_proxy.cpp.o
+[ 21%] Building CXX object CMakeFiles/simulator.dir/src/pcap.cpp.o
+[ 24%] Building CXX object CMakeFiles/simulator.dir/src/simulation.cpp.o
+[ 26%] Building CXX object CMakeFiles/simulator.dir/src/socks_server.cpp.o
+[ 29%] Building CXX object CMakeFiles/simulator.dir/src/high_resolution_clock.cpp.o
+[ 31%] Building CXX object CMakeFiles/simulator.dir/src/http_server.cpp.o
+[ 34%] Building CXX object CMakeFiles/simulator.dir/src/queue.cpp.o
+[ 36%] Building CXX object CMakeFiles/simulator.dir/src/simulator.cpp.o
+[ 39%] Building CXX object CMakeFiles/simulator.dir/src/tcp_socket.cpp.o
+[ 41%] Linking CXX static library libsimulator.a
+[ 41%] Built target simulator
+Scanning dependencies of target multi_accept
+[ 43%] Building CXX object CMakeFiles/multi_accept.dir/test/multi_accept.cpp.o
+[ 46%] Building CXX object CMakeFiles/multi_accept.dir/test/main.cpp.o
+[ 48%] Linking CXX executable multi_accept
+[ 48%] Built target multi_accept
+Scanning dependencies of target acceptor
+[ 51%] Building CXX object CMakeFiles/acceptor.dir/test/acceptor.cpp.o
+[ 53%] Building CXX object CMakeFiles/acceptor.dir/test/main.cpp.o
+[ 56%] Linking CXX executable acceptor
+[ 56%] Built target acceptor
+Scanning dependencies of target timer
+[ 58%] Building CXX object CMakeFiles/timer.dir/test/timer.cpp.o
+[ 60%] Building CXX object CMakeFiles/timer.dir/test/main.cpp.o
+[ 63%] Linking CXX executable timer
+[ 63%] Built target timer
+Scanning dependencies of target multi_homed
+[ 65%] Building CXX object CMakeFiles/multi_homed.dir/test/multi_homed.cpp.o
+[ 68%] Building CXX object CMakeFiles/multi_homed.dir/test/main.cpp.o
+[ 70%] Linking CXX executable multi_homed
+[ 70%] Built target multi_homed
+Scanning dependencies of target resolver
+[ 73%] Building CXX object CMakeFiles/resolver.dir/test/resolver.cpp.o
+[ 75%] Building CXX object CMakeFiles/resolver.dir/test/main.cpp.o
+[ 78%] Linking CXX executable resolver
+[ 78%] Built target resolver
+Scanning dependencies of target null_buffers
+[ 80%] Building CXX object CMakeFiles/null_buffers.dir/test/null_buffers.cpp.o
+[ 82%] Building CXX object CMakeFiles/null_buffers.dir/test/main.cpp.o
+[ 85%] Linking CXX executable null_buffers
+[ 85%] Built target null_buffers
+Scanning dependencies of target parse_request
+[ 87%] Building CXX object CMakeFiles/parse_request.dir/test/parse_request.cpp.o
+[ 90%] Building CXX object CMakeFiles/parse_request.dir/test/main.cpp.o
+[ 92%] Linking CXX executable parse_request
+[ 92%] Built target parse_request
+Scanning dependencies of target udp_socket
+[ 95%] Building CXX object CMakeFiles/udp_socket.dir/test/udp_socket.cpp.o
+[ 97%] Building CXX object CMakeFiles/udp_socket.dir/test/main.cpp.o
+[100%] Linking CXX executable udp_socket
+[100%] Built target udp_socket

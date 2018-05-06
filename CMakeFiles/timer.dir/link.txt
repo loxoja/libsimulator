@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/timer.dir/test/timer.cpp.o CMakeFiles/timer.dir/test/main.cpp.o  -o timer -rdynamic libsimulator.a -lboost_system 
